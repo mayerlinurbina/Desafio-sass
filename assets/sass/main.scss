@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card-font {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.card-title {
+    @extend .card-font;
+}
+.card-text {
+    @extend .card-font;
+}
+
+
+
+

@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card-font, .card-text, .card-title {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=main.css.map */
